@@ -56,6 +56,10 @@ tictactoe-vanilla/
 
 ## 🖼️ Preview
 
+![Preview](assets/preview1.png)
+
+![Preview](assets/preview2.png)
+
 ---
 
 ## 🧠 Learnings
